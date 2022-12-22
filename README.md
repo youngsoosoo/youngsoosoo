@@ -4,6 +4,8 @@
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=youngsoosoo&show_icons=true)
 
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oduodg">
+
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
