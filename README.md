@@ -16,3 +16,10 @@
 
 <h2 dir="auto"><a id="user-content--devs-log-" class="anchor" aria-hidden="true" href="#-devs-log-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> DEV's log <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></h2>
 <a href="https://youngsoosoo.tistory.com/" target="_blank"><img src="https://camo.githubusercontent.com/b441dc881bfd1dada50a9322ada5f4a15a44d09f35430f64f612a891dab6963b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"></a>
+
+---
+**Projects**
+- [공기 어때(HAT - Hows The Air Today), 대기질 정보와 소식을 공유하는 지역밀착형 서비스](https://github.com/WeatherWhere)\
+  카카오 클라우드 스쿨 2기 프로젝트 - 백엔드 개발 및 인프라 구축
+- [Furry_Friend_v1 ](https://github.com/youngsoosoo/Furry_Friend_v1)<tr/>[Furry_Friend_v2](https://github.com/youngsoosoo/Furry_Friend_v2)\
+  개인 토이 프로젝트 - 백엔드 개발
