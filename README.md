@@ -21,5 +21,5 @@
 **Projects**
 - [공기 어때(HAT - Hows The Air Today), 대기질 정보와 소식을 공유하는 지역밀착형 서비스](https://github.com/WeatherWhere)\
   카카오 클라우드 스쿨 2기 프로젝트 - 백엔드 개발 및 인프라 구축
-- [Furry_Friend_v1 ](https://github.com/youngsoosoo/Furry_Friend_v1)<tr/>[Furry_Friend_v2](https://github.com/youngsoosoo/Furry_Friend_v2)\
+- [Furry_Friend_v1, 애완동물 애호가들을 위한 E-commerce Platform](https://github.com/youngsoosoo/Furry_Friend_v1)<br/>[Furry_Friend_v2](https://github.com/youngsoosoo/Furry_Friend_v2)\
   개인 토이 프로젝트 - 백엔드 개발
