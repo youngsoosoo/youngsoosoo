@@ -1,25 +1,44 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=YoungSoo&fontSize=90)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrgnsgml&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=youngsoosoo&show_icons=true)
-
-<h2 dir="auto"><a id="user-content--once-ive-used-" class="anchor" aria-hidden="true" href="#-once-ive-used-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">🛠</g-emoji> Tech Stack <g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">🛠</g-emoji></h2>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1764183bbafa7706e1a6ef9d703f3e85db377094d158a50ffcd42ee4f2099e35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1764183bbafa7706e1a6ef9d703f3e85db377094d158a50ffcd42ee4f2099e35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30f078685ac40d80ba23aedf03eb54712e30636a26b8144a9698671074ba58b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e6720426f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e6720626f6f74266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/30f078685ac40d80ba23aedf03eb54712e30636a26b8144a9698671074ba58b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e6720426f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e6720626f6f74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&amp;logo=spring boot&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1fc168684171582321954905e8b9dc4f59810243ed85e645f3b7938ee3145cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c1fc168684171582321954905e8b9dc4f59810243ed85e645f3b7938ee3145cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+<h3 align='center'>안녕하세요. 백엔드 개발자 박용수입니다.</h3>
 <br/>
-<a target="_blank" rel="noopener noreferrer nofollow" href="">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="">
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youngsoosoo&show_icons=true" />
+</p>
+<br/>
+<h3 align='center'>🛠 Tech Stack 🛠</h3>
+<br/>
+  <p align='center'>
+    <img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Aws-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GithubActions-blue?style=flat-square&logo=githubactions&logoColor=white"/>
+  </p>
+<br/>
+<h3 align='center'>💻 Tech Records 💻</h3>
+<br/>
+  <p align='center'>
+    <a href='https://github.com/youngsoosoo'><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href='https://youngsoosoo.tistory.com/'><img src="https://img.shields.io/badge/Tistory-red?style=flat-square&logo=tistory&logoColor=white"/></a>
+  </p>
+<br/>
+<h3 align='center'>💻 Projects 💻</h3>
 
-<h2 dir="auto"><a id="user-content--devs-log-" class="anchor" aria-hidden="true" href="#-devs-log-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> DEV's log <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></h2>
-<a href="https://youngsoosoo.tistory.com/" target="_blank"><img src="https://camo.githubusercontent.com/b441dc881bfd1dada50a9322ada5f4a15a44d09f35430f64f612a891dab6963b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;"></a>
+<div align='center'>
+  
+  <div style="text-align:left; display:inline-block; max-width:100%;">
+    <a href="https://github.com/C4-ComeTrue/c4-cometrue-assignment/tree/base/soo">Mini-Pay, 간단한 형태의 페이 서비스</a>
+    <p> 팀 프로젝트 - 백엔드 개발 (2024.01. - 진행 중) </p>
+  </div>
+  
+  <div style="text-align:left; display:inline-block; max-width:100%;">
+    <a href="https://github.com/Team-Furry-Friend">Furry_Friend, 애완용품 중고 거래 Platform(MSA)</a>
+    <p> 팀 프로젝트 - 백엔드 개발 (2023.06. - 2023.10) </p>
+  </div>
+  
+  <div style="text-align:left; display:inline-block; max-width:100%;">
+    <a href="https://github.com/Hows-the-Air-Today">공기 어때(HAT - Hows The Air Today), 대기질 정보와 소식을 공유하는 지역밀착형 서비스</a>
+    <p> 카카오 클라우드 스쿨 2기 프로젝트 - 백엔드 개발 및 인프라 구축 (2023.03. - 2023.04) </p>
+  </div>
 
----
-**Projects**
-- [공기 어때(HAT - Hows The Air Today), 대기질 정보와 소식을 공유하는 지역밀착형 서비스](https://github.com/Hows-the-Air-Today)\
-  카카오 클라우드 스쿨 2기 프로젝트 - 백엔드 개발 및 인프라 구축
-- [Furry_Friend_v1, 애완동물 애호가들을 위한 E-commerce Platform](https://github.com/youngsoosoo/Furry_Friend_v1)<br/>[Furry_Friend_v2, v1 - 코드 개선](https://github.com/youngsoosoo/Furry_Friend_v2)<br/>[Furry_Friend_v3, 애완용품 중고 거래 Platform(MSA)](https://github.com/Team-Furry-Friend)\
-  개인 토이 프로젝트 - 백엔드 개발
+</div>
