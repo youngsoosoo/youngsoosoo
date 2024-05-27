@@ -28,7 +28,7 @@
   
   <div style="text-align:left; display:inline-block; max-width:100%;">
     <a href="https://github.com/C4-ComeTrue/c4-cometrue-assignment/tree/base/soo">Mini-Pay, 간단한 형태의 페이 서비스</a>
-    <p> 팀 프로젝트 - 백엔드 개발 (2024.01. - 진행 중) </p>
+    <p> 개인 프로젝트 - 백엔드 개발 (2024.01. - 진행 중) </p>
   </div>
   
   <div style="text-align:left; display:inline-block; max-width:100%;">
